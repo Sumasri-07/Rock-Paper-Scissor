@@ -52,19 +52,3 @@ Hints on functionality
 * Scissors beats Paper
 * Paper beats Rock
 
-In code review we'll be hoping to see:
-
-* All tests passing
-* High test coverage
-* The code is elegant: every class has a clear responsibility, methods are short etc.
-
-### Extended Acceptance Criteria
-
-#### Multiplayer
-
-Change the game so that two DFAT members can play against each other ( _yes there are two of them and they'll be playing on the same computer_ ).
-
-#### Rock, Paper, Scissors, Spock, Lizard
-
-Use the _special_ rules ( _you can find them here <http://en.wikipedia.org/wiki/Rock-paper-scissors-lizard-Spock>_ )
-#
