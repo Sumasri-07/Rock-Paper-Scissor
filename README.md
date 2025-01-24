@@ -1,4 +1,4 @@
-# RPS Challenge
+# Rock-Paper-Scissor 
 
 Instructions
 -------
